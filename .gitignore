@@ -1,0 +1,10 @@
+*.png
+
+LSE_DA201_Assignment_Template.ipynb
+
+*.docx
+
+.DS_Store
+.ipynb_checkpoints/*
+
+*.mp4
